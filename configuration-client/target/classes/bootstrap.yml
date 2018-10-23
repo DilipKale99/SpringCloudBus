@@ -1,0 +1,8 @@
+---
+spring:
+  application:
+    name: a-bootiful-client
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8888

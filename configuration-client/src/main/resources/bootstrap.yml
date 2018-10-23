@@ -1,0 +1,8 @@
+---
+spring:
+  application:
+    name: global-client
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8888
