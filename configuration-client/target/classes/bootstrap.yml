@@ -1,7 +1,7 @@
 ---
 spring:
   application:
-    name: a-bootiful-client
+    name: global-client
   cloud:
     config:
       enabled: true
