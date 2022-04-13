@@ -27,5 +27,6 @@ class MessageRestController {
 
         System.out.println("Hi");
         return this.message;
+
     }
 }
